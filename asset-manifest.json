@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react_c2-skins-project/static/js/main.ced17ce9.js",
-    "index.html": "/react_c2-skins-project/index.html",
-    "main.ced17ce9.js.map": "/react_c2-skins-project/static/js/main.ced17ce9.js.map"
+    "main.js": "/build/static/js/main.ced17ce9.js",
+    "index.html": "/build/index.html",
+    "main.ced17ce9.js.map": "/build/static/js/main.ced17ce9.js.map"
   },
   "entrypoints": [
     "static/js/main.ced17ce9.js"
